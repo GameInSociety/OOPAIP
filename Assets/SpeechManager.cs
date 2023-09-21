@@ -3,9 +3,6 @@ using UnityEngine.Networking;
 using Newtonsoft.Json;
 using UnityEngine;
 using System.Text;
-using System.Reflection;
-using System.Collections.Generic;
-using UnityEditorInternal;
 
 public class SpeechManager : MonoBehaviour
 {
@@ -104,6 +101,9 @@ public class SpeechManager : MonoBehaviour
 
     IEnumerator InitCoroutine()
     {
+        playing = false;
+        DisplayLoading.Instance.FadeIn();
+        timer = 0f;
         yield return DownloadSpeeches();
 
         yield return GetAudioClip();
@@ -260,6 +260,7 @@ public class SpeechManager : MonoBehaviour
             {
                 AudioClip myClip = DownloadHandlerAudioClip.GetContent(www);
                 audioSource.clip = myClip;
+                audioSource.time = startTime;
             }
 
         }

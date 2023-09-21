@@ -1,10 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using Unity.VisualScripting.FullSerializer;
-using UnityEditor.Experimental;
-using UnityEditorInternal;
 using UnityEngine;
 
 public class SpeechHandler

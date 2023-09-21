@@ -48,7 +48,6 @@ public class GameManager : MonoBehaviour
     {
         DisplayStartLevel.Instance.FadeOut();
         SpeechManager.instance.Init();
-        DisplayLoading.Instance.Show();
     }
 
 }
