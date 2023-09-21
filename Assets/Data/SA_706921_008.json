@@ -1,0 +1,1627 @@
+{
+    "media_id": "SA_706921_008",
+    "media_url": "https://oopaip.ina.fr/oopaip/Media/corpus/SA_706921_008.oga",
+    "discourse_events": [
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_0_498"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "0.498"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "24.005"
+            },
+            "whisper": " Il est 8h36, Jean-Luc M\u00e9lenchon est avec nous, bonjour.  Bonjour.  Jean-Luc M\u00e9lenchon, je voudrais commencer avec la r\u00e9action de Marl\u00e8ne Schiappa  \u00e0 propos de la d\u00e9fense de Jonathan Daval, les avocats de Jonathan Daval.  On trouve des raisons qui justifieraient que cette femme ait \u00e9t\u00e9 victime, dit Marl\u00e8ne Schiappa.  Telle est raison d'intervenir?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_24_005"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "24.005"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "40.948"
+            },
+            "whisper": " Je crois qu'il faut maintenir la paix publique et nous, les r\u00e9publicains, quelque soit notre famille politique auquel on appartient,  on doit monter en ligne sans cesse parce que dans ce pays, ce n'est pas acceptable que des choses pareilles se passent.  Ce sont des actes de barbarie.  Je crois, non? Qu'est-ce que vous en pensez?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_38_821"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "38.821"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "39.462"
+            },
+            "whisper": " Vous la soutenez?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_40_947"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "40.947"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "44.761"
+            },
+            "whisper": " Attendez, ne commencez pas \u00e0 me poser des questions."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_43_512"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "43.512"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "56"
+            },
+            "whisper": " J'en sais rien, mais on parle amicalement, l\u00e0.  Quand un ministre monte en ligne de cette mani\u00e8re sur un sujet, moi, je ne suis pas de son parti."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_46_212"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "46.212"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "49.435"
+            },
+            "whisper": " Non, amicalement, oui.  Je ne sais pas quelles sont vos opinions.  Je ne sais pas quelles sont vos opinions."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_53_722"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "53.722"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "64.758"
+            },
+            "whisper": " Elle a eu raison.  Oui, bien s\u00fbr.  Elle a eu raison.  Mathieu Gallet, le pr\u00e9sident de Radio France, r\u00e9voqu\u00e9 par le CSA.  D\u00e9cision politique ou pas, \u00e0 vos yeux?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_65_72"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "65.72"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "104.549"
+            },
+            "whisper": " Oui, au sens peut-\u00eatre noble du terme.  Le gouvernement a d\u00fb consid\u00e9rer que quelqu'un qui avait \u00e9t\u00e9 condamn\u00e9 ne pouvait pas rester dans une position d'autorit\u00e9 aussi importante.  Vous savez, \u00e7a se comprend.  En m\u00eame temps, il faut qu'on fasse tr\u00e8s attention.  C'est pour \u00e7a que c'est question embrouill\u00e9e.  Cet homme-l\u00e0, il a fait appel.  Donc, il y a une pr\u00e9somption d'innocence.  Appel suspensif.  Il faut que quelqu'un tranche.  L\u00e0, je pense que l'autorit\u00e9 l'a fait.  C'est le CSA.  Oui.  Mais elle a un sens politique au sens noble des choses.  Quelqu'un qui est condamn\u00e9, on estime qu'il n'est pas en situation morale."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_86_662"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "86.662"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "88.383"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_102_659"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "102.659"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "105.123"
+            },
+            "whisper": " C'est une d\u00e9cision juste?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_106_54"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "106.54"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "142.45"
+            },
+            "whisper": " Est-ce qu'une d\u00e9cision politique peut vraiment \u00eatre juste?  Elle est adapt\u00e9e ou pas?  Donc, c'est une d\u00e9cision politique?  Oui, mais au sens noble du terme.  Au sens noble.  C'est-\u00e0-dire, je peux \u00eatre contre.  Supposer que je sois contre cette d\u00e9cision, il n'emp\u00eache que je dirais qu'elle est politique au sens noble.  Parce que c'est une \u00e9valuation morale.  Qu'est-ce qu'on donne \u00e0 voir et qu'est-ce qu'on accepte?  Ou pas, apr\u00e8s tout, le gouvernement, l'\u00c9tat a le droit d'avoir un avis sur ceux qui, \u00e0 un moment donn\u00e9, exercent l'autorit\u00e9 en son nom.  Et l\u00e0, bon, c'est la radio publique que voulez-vous?  Oui, \u00e7a a une importance pour tous les Fran\u00e7ais.  Donc, les gens condamn\u00e9s ne peuvent peut-\u00eatre pas la diriger."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_113_476"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "113.476"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "113.797"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_116_885"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "116.885"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "117.121"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_142_45"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "142.45"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "146.5"
+            },
+            "whisper": " Oui, le CSA d'ailleurs, doit-il \u00eatre r\u00e9form\u00e9?  Les rapports entre l'audiovisuel public et l'\u00c9tat."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_146_5"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "146.5"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "252.897"
+            },
+            "whisper": " Eh bien oui, d\u00e9j\u00e0, vous savez que j'ai fait une p\u00e9tition.  Il faudrait qu'on puisse avoir des rapports plus d\u00e9tendus avec les m\u00e9dias.  Parce que, o\u00f9 c'est la cogne, o\u00f9 c'est le proc\u00e8s en diffamation, non, il y a peut-\u00eatre un intervalle entre les deux.  On doit pouvoir dire, par exemple...  Voil\u00e0 plus calme.  Oh, bah, ouf, \u00e7a d\u00e9pend des jours.  Mais maintenant, vous \u00eates patron de m\u00e9dias!  Non, attendez, laissez-moi finir ma phrase.  J'ai donc propos\u00e9 qu'il y ait, j'ai fait une p\u00e9tition pour qu'il y ait un conseil d\u00e9ontologique, pour qu'on puisse dire...  Par exemple, moi j'en suis souvent victime, j'ai \u00e9t\u00e9 victime, comme vous le savez, \u00e0 France 2 d'un montage,  o\u00f9 on a pris un bout de ma phrase, on a mis des applaudissements derri\u00e8re, pour faire croire \u00e0 autre chose que ce que je disais.  D'ailleurs, la cha\u00eene s'en est excus\u00e9e publiquement, au journal le t\u00e9l\u00e9vis\u00e9 suivant.  Mais j'ai dit, mais avant qu'on soit oblig\u00e9 de sortir la grosse artillerie de la justice, on peut peut-\u00eatre avoir un conseil d\u00e9ontologique,  o\u00f9 moi, comme citoyen, j'aurais dit, \u00e9coutez, c'est pas acceptable ce proc\u00e9d\u00e9-l\u00e0.  Parce que les autres journalistes ne sont pas d'accord avec de telles m\u00e9thodes, faut pas croire, hein.  Je suis tr\u00e8s critique \u00e0 l'\u00e9gard des m\u00e9dias, mais je sais, comme tout le monde, que \u00e7a ne veut rien dire, les g\u00e9n\u00e9ralit\u00e9s.  C'est dans le d\u00e9tail que \u00e7a se voit.  Donc je suis pour ce conseil d\u00e9ontologique.  J'ai demand\u00e9 au pr\u00e9sident de la R\u00e9publique, apr\u00e8s tout, j'ai \u00e9t\u00e9 son concurrent,  je suis pr\u00e9sident d'un groupe d'opposition \u00e0 l'Assembl\u00e9e,  j'ai demand\u00e9 \u00e0 le recevoir, \u00e0 ce qu'il me re\u00e7oive, pardon,  pour lui pr\u00e9senter cette p\u00e9tition, et mon id\u00e9e, puisqu'il s'est exprim\u00e9 sur les fausses nouvelles,  et pour l'instant, j'ai pas de r\u00e9ponse, je suis bien embarrass\u00e9.  \u2014 Bien embarrass\u00e9?  \u2014 Oui, je pr\u00e9f\u00e9rerais qu'il me r\u00e9ponde, ou alors il me dit, \u00e9coutez, M. M\u00e9lenchon, j'ai pas le temps,  ou c'est pas \u00e0 moi que vous devez dire \u00e7a, mais \u00e0 mon Premier ministre.  \u2014 Mais il a aussi beaucoup de choses \u00e0 faire, M. M\u00e9lenchon.  \u2014 Oui, mais moi, je suis important, M. Bourdin, je suis un des responsables de l'opposition.  On est dans un r\u00e9gime parlementaire, et je me suis adress\u00e9 \u00e0 lui respectueusement,  et pas d'une mani\u00e8re reprovocante. Donc j'estime qu'au minimum,  un pr\u00e9sident de groupe a droit \u00e0 une r\u00e9ponse."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_168_218"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "168.218"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "168.623"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_225_02"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "225.02"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "225.307"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_235_904"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "235.904"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "236.275"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_238_216"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "238.216"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "239.296"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_248_341"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "248.341"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "248.932"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_252_897"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "252.897"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "259.866"
+            },
+            "whisper": " \u2014 Je vais venir \u00e0 l'Assembl\u00e9e nationale. Mais G\u00e9rald Darmanin, lui, doit-il d\u00e9missionner?  Quelle est votre position?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_259_867"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "259.867"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "311.791"
+            },
+            "whisper": " \u2014 Alors, j'observe, d'abord, les faits qui sont en cause sont gravissimes, hein.  \u2014 Oui.  \u2014 Mais pas seulement dans le registre qui a \u00e9t\u00e9 \u00e9voqu\u00e9 jusqu'\u00e0 pr\u00e9sent,  puisque l'accusation qui est port\u00e9e contre lui est une accusation de viol.  Mais moi, je me suis aussi int\u00e9ress\u00e9, de ce que j'ai pu lire, honn\u00eatement, j'y ai pas pass\u00e9 ma vie, hein,  au fait que la personne qui le sollicitait, c'\u00e9tait pour changer son casier judiciaire.  Alors moi, je voudrais aussi qu'on interroge ceux qui sont en \u00e9tat de changer les casiers judiciaires des gens,  parce que c'est quand m\u00eame pas banal, \u00e7a, comme affaire.  Donc d'un bout \u00e0 l'autre, c'est grave. Mais le devoir d'un responsable public,  c'est de faire attention \u00e0 la fa\u00e7on avec laquelle il avance dans les probl\u00e8mes.  Pourquoi? Parce que le viol est un crime, je le rappelle.  C'est pas rien d'accuser quelqu'un d'un crime.  Donc il faut le faire avec justesse et m\u00e9thode."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_312_432"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "312.432"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "374.245"
+            },
+            "whisper": " Si les faits sont av\u00e9r\u00e9s, alors c'est m\u00eame pas la case d'\u00e9mission, c'est la case prison qui est \u00e0 l'horizon.  Mais s'il ne l'est pas, si ces faits ne sont pas av\u00e9r\u00e9s, alors la situation est gravissime.  De mettre un homme sur le pilori, et c'est un adversaire politique, et j'ai aucune raison d'appr\u00e9cier.  Donc je ne veux ni donner le sentiment que je mineure ou l'inquelquonque de mes amis la gravit\u00e9 des faits,  ni qu'on d\u00e9pr\u00e9cie la valeur de la parole de la victime.  Il faut faire tr\u00e8s attention \u00e0 \u00e7a, parce que souvent on trouve toujours des bonnes raisons  pour expliquer que la victime n'est pas si victime que \u00e7a.  Mais un viol est un viol.  \u2013 Monsieur Bourdin, cette question-l\u00e0, il faut la poser \u00e0 ceux qui l'ont embauch\u00e9.  Parce que pour mettre dehors Mme de Sarnez et M. Bayrou, qui n'\u00e9taient inculp\u00e9s de rien du tout,  et en cause d'aucune mani\u00e8re, \u00e7a a \u00e9t\u00e9 en 48 heures.  \u2013 Oui, enfin vous ne les avez pas d\u00e9fendus \u00e0 l'\u00e9poque.  \u2013 Eh bien non, c'\u00e9tait une affaire politique.  \u2013 Oui.  \u2013 Oui."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_343_988"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "343.988"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "346.992"
+            },
+            "whisper": " \u2013 Donc \u00e0 l'\u00e9tat actuel des choses, de ce que l'on sait, doit-il d\u00e9missionner?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_365_892"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "365.892"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "369.537"
+            },
+            "whisper": "\u2013 Non mais je peux les d\u00e9fendre.  \u2013 Tandis que l\u00e0, l'affaire est diff\u00e9rente.  \u2013 Mais je peux les d\u00e9fendre, c'est une affaire de droit commun et d'un crime."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_370_263"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "370.263"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "370.449"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_371_41"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "371.41"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "376.101"
+            },
+            "whisper": "\u2013 C'est pas pareil.  \u2013 Alors peut-il encore exercer ses fonctions?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_375_494"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "375.494"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "378.97"
+            },
+            "whisper": " \u2013 Apparemment c'est le cas puisqu'on le voit, on le voit \u00e0 l'affaire.  \u2013 Alors qu'en pensez-vous?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_379_662"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "379.662"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "449.035"
+            },
+            "whisper": " \u2013 De quoi, Monsieur Bourdin?  \u2013 Peut-il encore exercer ses fonctions?  \u2013 \u00c0 mon avis, tr\u00e8s difficilement.  \u2013 Tr\u00e8s difficilement?  \u2013 Bah \u00e9coutez, il est entour\u00e9 d'un silence g\u00ean\u00e9,  mais \u00e0 chaque fois qu'il ouvre la bouche \u00e0 l'Assembl\u00e9e Nationale,  mais voil\u00e0, nous en sommes tous l\u00e0.  Comprenez-moi bien, Monsieur Bourdin, je ne veux...  \u2013 Donc vous... \u2013 \u00c9coutez, nous avons discut\u00e9 entre nous dans le groupe  la France Insoumise, assez longuement de \u00e7a.  \u2013 Oui. \u2013 Parce que nous \u00e9tions tous boulevers\u00e9s par deux choses.  1. On ne peut pas sous-estimer la gravit\u00e9 des faits incrimin\u00e9s.  2. On ne veut pas que dans le contexte actuel o\u00f9 enfin une parole s'est lib\u00e9r\u00e9e,  o\u00f9 enfin des gens am\u00e8nent sur la sc\u00e8ne publique des choses qu'on taisait auparavant  parce que les victimes finissaient par se sentir coupables,  enfin tout \u00e7a arrive sur la sc\u00e8ne, il ne faut rien faire ni rien dire,  qu'il soit en quelque sorte retour \u00e0 la case d\u00e9part, tout le monde la ferme.  Ni non plus \u00eatre nous des juges ou des policiers.  Donc je vous dis franchement les choses, c'est une situation qui n\u00e9cessite de la mesure.  Mais en m\u00eame temps la gravit\u00e9 des faits fait que tout le monde devrait,  dans le gouvernement, s'interroger.  Mais les Fran\u00e7ais regardent, ils sont capables de faire la diff\u00e9rence"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_394_934"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "394.934"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "395.221"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_445_964"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "445.964"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "453.069"
+            },
+            "whisper": " entre le traitement qu'a subi M. Bayrou et le traitement que subit M. Darmanin.  \u2013 Pour lui, pour M. Darmanin, il est difficile de continuer \u00e0 exercer ses fonctions,  c'est ce que vous pensez."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_452_984"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "452.984"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "468.172"
+            },
+            "whisper": " \u2013 Non, entendez-moi bien M. Bourdin. \u2013 Vous m'avez dit.  \u2013 Oui, mais je ne suis pas un juge, je vous l'ai dit.  \u2013 Je ne dis pas ce qu'il doit faire.  Je mets chacun au pied du mur de sa responsabilit\u00e9 devant l'\u00c9tat  et devant les citoyens et les citoyennes qui les regardent."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_457_017"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "457.017"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "459.38"
+            },
+            "whisper": " \u2013 Mais Dieu ne vous demande pas d'\u00eatre juge."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_468_121"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "468.121"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "478.297"
+            },
+            "whisper": " \u2013 Bien, vous \u00eates d\u00e9put\u00e9 des Bouches-du-Rh\u00f4ne.  Premier, tiens, vous serez candidat \u00e0 la mairie de Marseille?  \u2013 Ah ah, vous croyez que je vais vous dire \u00e7a?  \u2013 Tiens, au passage, non mais je dis au passage.  Vous avez envie d'\u00eatre maire de Marseille?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_474_297"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "474.297"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "474.702"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_475_63"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "475.63"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "487.578"
+            },
+            "whisper": " \u2013 Et vous \u00eates candidat \u00e0 \u00eatre le patron de la radio.  \u2013 Non, mais moi je ne suis pas la politique, je suis candidat.  \u2013 Non mais l\u00e0, il y a Galet qui s'en va.  \u2013 Non mais je ne suis jamais pas du tout.  \u2013 Et pourquoi, vous avez le talent."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_479_478"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "479.478"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "499.492"
+            },
+            "whisper": " \u2013 Je suis incapable d'exercer la moindre autorit\u00e9.  \u2013 Et vous?  \u2013 Vous avez envie d'\u00eatre maire?  Vous aimeriez \u00eatre maire de Marseille, sinc\u00e8rement?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_491_172"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "491.172"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "493.501"
+            },
+            "whisper": " \u2013 Et vous? Ah, dit-il en me montrant du doigt."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_499_492"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "499.492"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "566.857"
+            },
+            "whisper": " \u2013 D'abord, Marseille, c'est un honneur, quoi qu'elle vous donne.  \u2013 Ah ben oui, mais alors je vais vous expliquer un truc.  Les gens \u00e0 Marseille, soit vous arrivez, vous ne les supportez pas  et vous repartez en criant, soit vous tombez raide amoureux.  Moi j'arrive \u00e0 Saint-Charles toutes les semaines  et tout d'un coup je respire mieux.  En quelque sorte, apr\u00e8s avoir \u00e9t\u00e9 normand, comptoir, grand sud-ouest,  en r\u00e9alit\u00e9\u2026 \u2013 Vous avez travers\u00e9 la France, quoi.  \u2013 Oui, mais\u2026 \u2013 Et l\u00e0 vous avez trouv\u00e9 votre\u2026  \u2013 Ben je me retrouve chez moi, quoi. C'est la M\u00e9diterran\u00e9e,  c'est la ville avec ses splendeurs de lumi\u00e8re.  Mais Bourdin, vous l'aimez, vous, cette ville?  \u2013 Vous savez, je suis rest\u00e9 depuis 6 mois, je fais du Airbnb,  et puis je vais \u00e0 l'h\u00f4tel parce que j'ai pas trouv\u00e9 l'endroit o\u00f9 me poser.  Il faut dire que je suis exigeant.  Je veux voir la mer, je veux pas que \u00e7a co\u00fbte trop cher,  parce que moi j'ai un peu rapiat, bon, et ainsi de suite.  Mais une fois j'ai lou\u00e9, j'\u00e9tais au bord de la Corniche.  C'est plut\u00f4t le quartier qui est consid\u00e9r\u00e9 comme riche.  Bon sang de bois. Il y avait juste la route, et on voit la mer jusqu'au Frioul.  La mer, elle change 20 fois par jour, elle vous dit une m\u00e9lodie, un message.  \u00c0 quel bonheur. \u2013 Mais vous seriez bien, donc, comme maire de Marseille.  \u2013 Mais le maire de Marseille, il regarde pas la mer, hein, faut qu'il bosse."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_502_613"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "502.613"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "503.457"
+            },
+            "whisper": " \u2013 Vous aimez cette ville?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_530_66"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "530.66"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "531.791"
+            },
+            "whisper": " \u2013 Moi je l'aime, oui, je l'aime."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_566_452"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "566.452"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "573.083"
+            },
+            "whisper": " \u2013 Non mais d'accord. Non, oui, non, franchement, vous y pensez ou pas?"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_567_768"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "567.768"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "573.218"
+            },
+            "whisper": " \u2013 Il y a \u00e0 faire, hein. Je me donne du mal pour parler d'autre chose, Bourdin, laissez tomber, quoi."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_573_168"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "573.168"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "574.501"
+            },
+            "whisper": " \u2013 Non mais dites-moi, r\u00e9pondez-moi, puis on passe \u00e0 autre chose."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_574_501"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "574.501"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "588.22"
+            },
+            "whisper": " \u2013 Mais je\u2026 Qu'est-ce que je peux vous dire, monsieur?  Si je vous dis non, on va dire \u00ab Ah bah c'est bien, on est tranquille, il est pas l\u00e0 \u00bb.  Si je vous dis oui, on va dire \u00ab Ah, il est fou, il veut tout \u00bb.  \u2013 Non, il veut pas tout. \u2013 Non, je vais vous dire."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_583_9"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "583.9"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "587.933"
+            },
+            "whisper": " \u2013 Il a envie de\u2026 \u2013 Alors je vais vous r\u00e9pondre.  \u2013 \u2026 de tenter la vie d'une ville. R\u00e9pondez-moi.  \u2013 Ok, je vous parle s\u00e9rieusement."
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_589_03"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "589.03"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "616.452"
+            },
+            "whisper": " \u00c0 Marseille, il faut faire na\u00eetre un nouveau r\u00e9seau d'\u00e9lus.  Donc nous sommes en train de travailler pour faire \u00e9merger,  non pas un bonhomme pour faire le maire ou une bonne femme,  \u2013 Non, puis pas un bonhomme qui\u2026  \u2013 Mais, \u00e9coutez-moi, monsieur Bourdin, non, il faut d'abord trouver les gens qui viennent du terrain,  et \u00e0 tous mes amis qui sont l\u00e0-bas, je leur dis \u00ab Gagnez vos galons \u00bb.  Parce que c'est \u00e0 ce moment-l\u00e0 que vous pourrez d\u00e9signer tranquillement qui est votre t\u00eate de liste,"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_615_22"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "615.22"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "621.497"
+            },
+            "whisper": " sans forc\u00e9ment aller chercher quelqu'un qui soit\u2026  \u2013 Vous ne pouvez pas, vous ne pouvez pas, je termine avec \u00e7a, me dire\u2026"
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_618_308"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "618.308"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "620.789"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_622_291"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "622.291"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "622.493"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_622_493"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "622.493"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "663.415"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_627_708"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "627.708"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "629.598"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_631_319"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "631.319"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "632.618"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_633_715"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "633.715"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "639.031"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_640_01"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "640.01"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "644.988"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_662_369"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "662.369"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "665.002"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_665_002"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "665.002"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "670.199"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_668_495"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "668.495"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "669.457"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_670_199"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "670.199"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "671.144"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_672_157"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "672.157"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "698.718"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_673_456"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "673.456"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "674.502"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_698_043"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "698.043"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "710.952"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_700_878"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "700.878"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "703.494"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_710_952"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "710.952"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "716.116"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_713_568"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "713.568"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "723.44"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_723_44"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "723.44"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "727.507"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_727_507"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "727.507"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "733.447"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_733_447"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "733.447"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "785.743"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_784_747"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "784.747"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "792.324"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_786_586"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "786.586"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "804.997"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_804_997"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "804.997"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "808.439"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_808_439"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "808.439"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "830.95"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_830_95"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "830.95"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "835.928"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_831_136"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "831.136"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "831.642"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_835_928"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "835.928"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "873.576"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_850_222"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "850.222"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "851.066"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_873_577"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "873.577"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "883.213"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_879_449"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "879.449"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "879.635"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_883_178"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "883.178"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "999.008"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_941_752"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "941.752"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "941.954"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_998_958"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "998.958"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1005.506"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1005_505"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1005.505"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1012.339"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1006_99"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1006.99"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1009.387"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1012_34"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1012.34"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1016.98"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1016_17"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1016.17"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1036.707"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1036_066"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1036.066"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1041.567"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1041_635"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1041.635"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1045.448"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1043_407"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1043.407"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1058.949"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1046_461"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1046.461"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1047.423"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1058_948"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1058.948"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1067.96"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1061_75"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1061.75"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1074.946"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1074_946"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1074.946"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1154.427"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1118_028"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1118.028"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1118.264"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1152_875"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1152.875"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1157.33"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1155_997"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1155.997"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1211.634"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1167_387"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1167.387"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1169.581"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1211_633"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1211.633"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1215.632"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_01/segment_1213_793"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1213.793"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1214.89"
+            }
+        },
+        {
+            "segment": {
+                "type": "uri",
+                "value": "http://www.ina.fr/media/SA_706921_008/diarization_layer/pyannote_v3/SPEAKER_00/segment_1222_214"
+            },
+            "start": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1222.214"
+            },
+            "end": {
+                "type": "typed-literal",
+                "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+                "value": "1222.956"
+            }
+        }
+    ]
+}
