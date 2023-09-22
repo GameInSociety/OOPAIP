@@ -30,6 +30,11 @@ public class SpeechHandler
 
             for (int i = 0; i < _speech.speaker.Length; i++)
             {
+                if (string.IsNullOrEmpty(_speech.speaker[i])){
+                    ids[i] = 0;
+                    continue;
+                }
+
                 string str = _speech.speaker[i].Remove(0, _speech.speaker[i].Length - 1);
                 ids[i] = int.Parse(str);
             }

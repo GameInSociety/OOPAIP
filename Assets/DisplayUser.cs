@@ -35,6 +35,7 @@ public class DisplayUser : Displayable
         base.Start();
 
         OnEndEdit();
+
     }
 
     public void OnEndEdit()
@@ -88,6 +89,11 @@ public class DisplayUser : Displayable
             string login = inputField_user_login.text;
             string password = www.downloadHandler.text;
             Debug.Log("password : " + password);
+            password = password.Remove(0,1);
+            password = password.Remove(password.Length-1);
+            Debug.Log("password 2: " + password);
+
+            FadeOut();
             DisplayMessage.Instance.Display($"Votre mot de passe : \n{password}");
             DisplayLogin.instance.Display(login, password);
 

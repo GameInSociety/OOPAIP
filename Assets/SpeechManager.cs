@@ -190,6 +190,7 @@ public class SpeechManager : MonoBehaviour
             if (www.isNetworkError || www.isHttpError)
             {
                 Debug.Log(www.error);
+                DisplayMessage.Instance.Display(www.error);
             }
             else
             {
@@ -214,6 +215,7 @@ public class SpeechManager : MonoBehaviour
         if (www.result != UnityWebRequest.Result.Success)
         {
             Debug.Log(www.error);
+            DisplayMessage.Instance.Display(www.error);
         }
         else
         {
@@ -255,6 +257,7 @@ public class SpeechManager : MonoBehaviour
             if (www.result == UnityWebRequest.Result.ConnectionError)
             {
                 Debug.Log(www.error);
+                DisplayMessage.Instance.Display(www.error);
             }
             else
             {

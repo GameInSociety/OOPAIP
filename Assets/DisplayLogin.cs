@@ -50,6 +50,13 @@ public class DisplayLogin : Displayable
         launchCanvasGroup.interactable = true;
     }
 
+
+    public void ResetSave(){
+        PlayerPrefs.DeleteAll();
+        FadeOut();
+        DisplayUser.Instance.FadeIn();
+    }
+
     public void HandleOnLaunchButton()
     {
         string username = inputField_user_login.text;
