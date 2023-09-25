@@ -34,6 +34,7 @@ public class Character : MonoBehaviour
     public void StartTalking()
     {
         talking = true;
+        GetAnimator.enabled = true;
         GetAnimator.SetBool("talking", true);
         _faceControl.StartAnim();
         talkingFeedback.SetActive(true);

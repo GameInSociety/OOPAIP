@@ -44,9 +44,9 @@ public class SpeechManager : MonoBehaviour
         timer += Time.deltaTime;
 
         if ( Input.GetKeyDown(KeyCode.T))
-            timer = duration -2f;
+            timer = endTime -2f;
 
-        if ( timer >= duration)
+        if ( timer >= endTime)
             EndSpeeches();
 
         if ( handlerIndex >= handlers.Length)
@@ -54,10 +54,11 @@ public class SpeechManager : MonoBehaviour
 
         if (CurrHandler.Started(timer))
         {
-            Debug.Log("new speech");
+            foreach (var i in characters)
+                i.StopTalking();
+
             foreach (var i in CurrHandler.GetSpeakerIDs)
             {
-                Debug.Log("speaker : " + i);
                 characters[i].StartTalking();
             }
         }
@@ -66,6 +67,7 @@ public class SpeechManager : MonoBehaviour
         {
             foreach (var i in CurrHandler.GetSpeakerIDs)
                 characters[i].StopTalking();
+
             NextHandler();
         }
     }
@@ -81,29 +83,36 @@ public class SpeechManager : MonoBehaviour
     public void NextHandler()
     {
         ++handlerIndex;
+
+        if ( handlerIndex >= handlers.Length)
+        {
+            EndSpeeches();
+        }
     }
 
     public void EndSpeeches()
     {
-        playing = false;
+        SetPlay(false);
+        handlerIndex = 0;
 
         audioSource.Stop();
         foreach (var character in characters)
             character.StopTalking();
 
+        Debug.Log("ENDING SPEECH");
         StartCoroutine(Upload());
     }
 
     public void Init()
     {
+        Debug.Log("init speech manager");
         StartCoroutine(InitCoroutine());
     }
 
     IEnumerator InitCoroutine()
     {
-        playing = false;
         DisplayLoading.Instance.FadeIn();
-        timer = 0f;
+
         yield return DownloadSpeeches();
 
         yield return GetAudioClip();
@@ -117,10 +126,10 @@ public class SpeechManager : MonoBehaviour
         }
 
         displayTimeline.Init(startTime, endTime, duration);
+        handlerIndex = 0;
+        timer = startTime;
 
         yield return new WaitForEndOfFrame();
-
-
 
         DisplayLoading.Instance.FadeOut();
 
@@ -131,14 +140,20 @@ public class SpeechManager : MonoBehaviour
         yield return new WaitForSeconds(1f);
 
         audioSource.Play();
-        timer = 0f;
-        playing = true;
+        
+        SetPlay(true);
 
+    }
+
+    public void SetPlay(bool play)
+    {
+        playing = play;
+        Debug.Log("playing : " + playing);
     }
 
     public void Pause()
     {
-        playing = false;
+        SetPlay(false);
         audioSource.Pause();
 
         DisplayPause.Instance.FadeInInstant();
@@ -152,7 +167,7 @@ public class SpeechManager : MonoBehaviour
 
     public void Resume()
     {
-        playing = true;
+        SetPlay(true);
         audioSource.UnPause();
         DisplayPause.Instance.FadeOut();
 
@@ -232,24 +247,17 @@ public class SpeechManager : MonoBehaviour
         int lastIndex = timecode_start.LastIndexOf(',');
         timecode_start = timecode_start.Remove(lastIndex);
 
-        Debug.Log("start " + timecode_start);
         startTime = SpeechHandler.GetTimeCode(timecode_start);
-        Debug.Log("float : " + startTime);
         string endStream = speeches[speeches.Length - 1].stream;
         string timecode_end = endStream.Remove(0,endStream.LastIndexOf(',')+1);
-        Debug.Log("end " + timecode_end);
         endTime = SpeechHandler.GetTimeCode(timecode_end);
-        Debug.Log("float : " + endTime);
         duration = endTime - startTime;
 
         string path = speeches[0].stream;
 
-        Debug.LogError("audio path");
-        Debug.Log(path);
         int start = path.IndexOf("//");
         string auth = $"{User.main.user_login}:{User.main.user_password}@";
         path = path.Insert(start + 2, auth);
-        Debug.Log(path);
         using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(path, AudioType.OGGVORBIS))
         {
             yield return www.SendWebRequest();

@@ -16,7 +16,7 @@ public class DisplayTimeline : MonoBehaviour
     {
         if (SpeechManager.instance.playing && cursor != null)
         {
-            float lerp = SpeechManager.instance.timer / SpeechManager.instance.duration;
+            float lerp = (SpeechManager.instance.timer-SpeechManager.instance.startTime) / SpeechManager.instance.duration;
             float x = lerp * rectTransform.rect.width;
             cursor.anchoredPosition = new Vector2(x, 0f);
             jauge_RectTransform.sizeDelta = new Vector2(x, rectTransform.rect.height);

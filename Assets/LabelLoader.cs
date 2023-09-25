@@ -39,9 +39,6 @@ public class LabelLoader : MonoBehaviour
                 else
                 {
 
-                    Debug.Log("id : " + item.id);
-                    Debug.Log("label : " + item.label);
-
                     LabelGroup lastGroup = LabelGroup.labelGroups[LabelGroup.labelGroups.Count - 1];
                     lastGroup.labels.Add(item);
                 }
