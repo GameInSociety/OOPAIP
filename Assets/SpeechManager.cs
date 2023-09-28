@@ -111,6 +111,7 @@ public class SpeechManager : MonoBehaviour
 
     IEnumerator InitCoroutine()
     {
+        SetPlay(false);
         DisplayLoading.Instance.FadeIn();
 
         yield return DownloadSpeeches();
@@ -173,12 +174,6 @@ public class SpeechManager : MonoBehaviour
 
         foreach (var i in CurrHandler.GetSpeakerIDs)
             characters[i].StartTalking();
-    }
-
-    public int GetSpeakerID(Speech _speech)
-    {
-        string str = _speech.speaker[0].Remove(0, _speech.speaker[0].Length - 1);
-        return int.Parse(str);
     }
 
     IEnumerator Upload()
