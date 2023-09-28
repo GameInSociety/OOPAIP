@@ -12,7 +12,6 @@ Material:
   m_ValidKeywords:
   - _GLOSSYREFLECTIONS_OFF
   - _METALLICGLOSSMAP
-  - _NORMALMAP
   m_InvalidKeywords:
   - _METALLICSPECGLOSSMAP
   m_LightmapFlags: 4
@@ -29,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: bd16f06e4f4b38848a5fd553082d81da, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -49,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: bd41a14349cd5b54fb87b8a41ca60ccc, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -112,7 +111,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.9399698, g: 0.4470588, b: 1, a: 1}
-    - _Color: {r: 0.9399698, g: 0.4470588, b: 1, a: 1}
+    - _Color: {r: 0.5707547, g: 0.5750669, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
