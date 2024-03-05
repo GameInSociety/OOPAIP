@@ -63,6 +63,9 @@ public class DisplayLogin : Displayable
         string password = inputField_user_password.text;
         User.Init(username, password);
 
+        PlayerPrefs.SetString("login", username);
+        PlayerPrefs.SetString("password", password);
+
         FadeOut();
         DisplayStartLevel.Instance.FadeIn();
         

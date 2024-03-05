@@ -6,15 +6,19 @@ public class DisplayPause : Displayable
 {
     public static DisplayPause Instance;
 
-    private void Awake()
-    {
+    public Displayable label_button;
+    public Displayable maxFeedback_Displayable;
+
+    private void Awake() {
         Instance = this;
     }
 
-    public override void Show()
-    {
+    public override void Show() {
         base.Show();
-
         Tween.Bounce(GetTransform);
+    }
+
+    public override void Hide() {
+        base.Hide();
     }
 }

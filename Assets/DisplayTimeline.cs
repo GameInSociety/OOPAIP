@@ -1,45 +1,86 @@
+using DG.Tweening;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Principal;
+using Unity.VisualScripting;
+using UnityEditor.Timeline;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DisplayTimeline : MonoBehaviour
 {
-    public GameObject prefab;
+    public TimelineSegment prefab;
+    public List<TimelineSegment> segments = new List<TimelineSegment>();
     public Transform parent;
 
-    public RectTransform cursor;
-    RectTransform rectTransform;
-    public RectTransform jauge_RectTransform;
+    public ClipData.Field field;
 
-    private void Update()
+    RectTransform rectTransform;
+
+    public Color idleColor;
+    public Color currentColor;
+
+    public float targetScale = 1f;
+    public float scaleDuration = 1f;
+
+    float startTime = 0f;
+    float clipDuration = 0f;
+
+    public float range;
+
+    public void Init(float _startTime, float _duration) {
+        startTime = _startTime;
+        clipDuration = _duration;
+
+        ClipPlayer.Instance.GetFieldHandler(field).onSlotStart += HandleOnSlotStart;
+        ClipPlayer.Instance.GetFieldHandler(field).onSlotEnd += HandleOnSlotEnd;
+
+        UpdateSegments(ClipPlayer.Instance.GetFieldHandler(field).handlers);
+    }
+
+
+    public void HandleOnSlotStart(SlotHandler slotHandler) {
+        segments.Find(x => x.handler == slotHandler).SetActive();
+    }
+
+
+    public void HandleOnSlotEnd(SlotHandler slotHandler) {
+        segments.Find(x => x.handler == slotHandler).SetIdle();
+    }
+
+    public void ZoomIn() {
+        return;
+        parent.DOScale(targetScale, scaleDuration);
+        float lerp = (ClipPlayer.Instance.time - startTime) / clipDuration;
+        float width = rectTransform.rect.width;
+        float x = lerp * width;
+        float w = (width / targetScale) / 2f;
+        Vector2 pos = new Vector2(-x * targetScale + w, 0f);
+        rectTransform.DOAnchorPos(pos, scaleDuration);
+    }
+
+    public void ZoomOut() {
+        return;
+        parent.DOScale(1f, scaleDuration);
+        Vector2 p = rectTransform.anchoredPosition;
+        p.x = 0f;
+        rectTransform.DOAnchorPos(p, scaleDuration);
+    }
+
+    public void UpdateSegments(List<SlotHandler> slotHandlers)
     {
-        if (SpeechManager.instance.playing && cursor != null)
-        {
-            float lerp = (SpeechManager.instance.timer-SpeechManager.instance.startTime) / SpeechManager.instance.duration;
-            float x = lerp * rectTransform.rect.width;
-            cursor.anchoredPosition = new Vector2(x, 0f);
-            jauge_RectTransform.sizeDelta = new Vector2(x, rectTransform.rect.height);
+        rectTransform = GetComponent<RectTransform>();
+        range = rectTransform.rect.width;
+
+        for (int i = 0; i < slotHandlers.Count; i++) {
+            var handler = slotHandlers[i];
+            if ( i >= segments.Count)
+                segments.Add(Instantiate(prefab, parent));
+            segments[i].Init(handler);
         }
     }
 
-    public void Init(float startTime, float endTime, float duration)
-    {
-        rectTransform = GetComponent<RectTransform>();
-        float width = rectTransform.rect.width;
 
-        /*for (int i = 0; i < speaker.handlers.Count; i++)
-        {
-            SpeechHandler handler = speaker.handlers[i];
-            GameObject go = Instantiate(prefab, parent);
-            RectTransform rT = go.GetComponent<RectTransform>();
-            float dur = (handler.EndTime - handler.StartTime);
-            float x = handler.StartTime / lenght * width;
-            float w = dur / lenght * width;
-            rT.anchoredPosition = new Vector2(x, 0f);
-            rT.sizeDelta = new Vector2( w, 8f );
-
-        }*/
-    }
-
+    
 }

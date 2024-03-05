@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
     void Init()
     {
         string login = PlayerPrefs.GetString("login", "none");
-        Debug.Log(login);
         if (login != "none")
         {
             string password = PlayerPrefs.GetString("password", "none");
@@ -34,20 +33,17 @@ public class GameManager : MonoBehaviour
     public void ShowGameUI()
     {
         DisplayCamera.Instance.FadeIn();
-        LabelizeButton.Instance.FadeIn();
-
     }
 
     public void HideGameUI()
     {
         DisplayCamera.Instance.FadeOut();
-        LabelizeButton.Instance.FadeOut();
     }
 
     public void StartLevel()
     {
         DisplayStartLevel.Instance.FadeOut();
-        SpeechManager.instance.Init();
+        ClipManager.Instance.LoadNextClip();
     }
 
 }

@@ -47,7 +47,7 @@ public class DownloadTest : MonoBehaviour
             string txt = www.downloadHandler.text;
 
             Debug.Log(txt);
-            Speech[] speeches = JsonConvert.DeserializeObject<Speech[]>(txt);
+            Slot[] speeches = JsonConvert.DeserializeObject<Slot[]>(txt);
 
             foreach (var item in speeches)
             {

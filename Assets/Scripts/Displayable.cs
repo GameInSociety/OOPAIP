@@ -6,7 +6,12 @@ using DG.Tweening;
 
 public class Displayable : MonoBehaviour
 {
-    public bool visible = true;
+    public enum State {
+        visible,
+        hidden,
+        none,
+    }
+    public State state;
     public float fade_duration = 0.3f; 
     private  CanvasGroup canvasGroup;
 
@@ -45,11 +50,18 @@ public class Displayable : MonoBehaviour
     }
 
     public virtual void Start(){
-        if (visible){
-            Show();
-        }
-        else{
-            Hide();
+        switch (state) {
+            case State.visible:
+                Show();
+                break;
+            case State.hidden:
+                Hide();
+                break;
+            case State.none:
+
+                break;
+            default:
+                break;
         }
     }
 
@@ -72,6 +84,7 @@ public class Displayable : MonoBehaviour
     public void FadeInInstant()
     {
         Show();
+        CancelInvoke("Hide");
         CanvasGroup.alpha = 0f;
 
         FadeInDelay();
@@ -79,9 +92,9 @@ public class Displayable : MonoBehaviour
 
     public void FadeIn()
     {
+        CanvasGroup.DOKill();
         Show();
         CanvasGroup.alpha = 0f;
-
 
         CancelInvoke("FadeInDelay");
         Invoke("FadeInDelay", fade_duration);

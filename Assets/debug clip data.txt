@@ -1,0 +1,284 @@
+{
+    "events": [
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_0_734", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:00:00.734", 
+            "end": "00:00:00.987", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:00.734,00:00:00.987", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_3_772", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:00:03.772", 
+            "end": "00:00:15.163", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:03.772,00:00:15.163", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.ina.fr/oopaip#PoseQuestion"
+            ], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_16_006", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:00:16.006", 
+            "end": "00:00:48.068", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:16.006,00:00:48.068", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.ina.fr/oopaip#PoseQuestion",
+                "http://www.ina.fr/oopaip#PoseQuestion"
+            ],  
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_48_068", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:00:48.068", 
+            "end": "00:00:51.257", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:48.068,00:00:51.257", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.ina.fr/oopaip#PoseQuestion",
+                "http://www.ina.fr/oopaip#PoseQuestion",
+                "http://www.ina.fr/oopaip#PoseQuestion"
+            ],  
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_51_257", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:00:51.257", 
+            "end": "00:01:19.169", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:51.257,00:01:19.169", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_79_169", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:01:19.169", 
+            "end": "00:01:21.008", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:19.169,00:01:21.008", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_81_008", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:01:21.008", 
+            "end": "00:01:30.02", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:21.008,00:01:30.02", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/discourse/gabylone/segment_90_02", 
+            "annotation_type": "discourse", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:01:30.02", 
+            "end": "00:01:30.796", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:30.02,00:01:30.796", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }
+    ], 
+    "mainThematics": [
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_0_734", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:00:00.734", 
+            "end": "00:00:47.987", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:00.734,00:00:00.987", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.campus-AAR.fr/resource_1611139852"
+            ], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_51_257", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:00:51.257", 
+            "end": "00:01:19.169", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:51.257,00:01:19.169", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.campus-AAR.fr/resource_1611139852"
+            ],
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_79_169", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:01:19.169", 
+            "end": "00:01:21.008", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:19.169,00:01:21.008", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.campus-AAR.fr/resource_1611139852"
+            ],
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_81_008", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:01:21.008", 
+            "end": "00:01:30.02", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:21.008,00:01:30.02", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_90_02", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:01:30.02", 
+            "end": "00:01:30.796", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:30.02,00:01:30.796", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }
+    ],
+    "secondThematics": [
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_0_734", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:00:00.734", 
+            "end": "00:00:47.987", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:00.734,00:00:00.987", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.campus-AAR.fr/resource_1611139852"
+            ], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_48_068", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:00:48.068", 
+            "end": "00:00:51.257", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:48.068,00:00:51.257", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.campus-AAR.fr/resource_1611139852"
+            ], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_51_257", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:00:51.257", 
+            "end": "00:01:19.169", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:00:51.257,00:01:19.169", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_79_169", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:01:19.169", 
+            "end": "00:01:21.008", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:19.169,00:01:21.008", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_81_008", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00"
+            ], 
+            "start": "00:01:21.008", 
+            "end": "00:01:30.02", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:21.008,00:01:30.02", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [
+                "http://www.campus-AAR.fr/resource_1611139852"
+            ],
+            "context_before": []
+        }, 
+        {
+            "id": "http://www.ina.fr/media/TV_7715075_001/thematic/gabylone/segment_90_02", 
+            "annotation_type": "thematic", 
+            "speaker": [
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_00", 
+                "http://www.ina.fr/media/TV_7715075_001/segmentation_layer/pyannote_v3/SPEAKER_01"
+            ], 
+            "start": "00:01:30.02", 
+            "end": "00:01:30.796", 
+            "stream": "https://oopaip.ina.fr/oopaip/Media/corpus/corpus_election_2022/TV_7715075_001.ogg#t=00:01:30.02,00:01:30.796", 
+            "media": "http://www.ina.fr/media/TV_7715075_001", 
+            "annotations": [], 
+            "context_before": []
+        }
+    ]
+}
